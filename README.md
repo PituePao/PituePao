@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**PituePao/PituePao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Firmware Developer
 
-Here are some ideas to get you started:
+Embedded C
+ARM Cortex-M
+Electronics
+PCB Design
+RTOS
+ESP32
+MQTT
+IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Italy
+
+----------------------------------
+
+🚀 Featured Projects
+
+🔋 Three Phase Power Meter
+
+🪟 Smart Shutter Controller
+
+🍺 Digital Breathalyzer
+
+🎄 LED Christmas Tree
+
+----------------------------------
+
+🛠 Technologies
+
+C
+KiCad
+STM32
+NXP
+ESP32
