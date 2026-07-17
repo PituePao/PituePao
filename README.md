@@ -6,7 +6,6 @@ Embedded C
 ARM Cortex-M
 Electronics
 PCB Design
-RTOS
 ESP32
 MQTT
 IoT
